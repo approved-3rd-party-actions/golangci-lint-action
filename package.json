@@ -34,7 +34,7 @@
     "@types/semver": "^7.3.8",
     "@types/tmp": "^0.2.1",
     "setup-go": "git+https://github.com/actions/setup-go.git#v2.1.4",
-    "tmp": "^0.2.1"
+    "tmp": "^0.2.2"
   },
   "devDependencies": {
     "@types/node": "^16.10.3",
